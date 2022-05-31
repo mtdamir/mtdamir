@@ -6,7 +6,6 @@ Junior Blockchain Developer
 
 I have been programming in the field of blockchain for about 2 years. I started with Python and now I work with Rust and I love searching. Polkadot fan
 
-* 🌍  I'm based in Iran
 * ✉️  You can contact me at [amir.mts79@gmail.com](mailto:amir.mts79@gmail.com)
 * 🧠  I'm learning Rust, Substrate,Anchor
 
